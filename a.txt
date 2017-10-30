@@ -1,8 +1,4 @@
 xin chao cac ban
-<<<<<<< HEAD
 minh la tuan !
 bo xin thua cmasy
 asdasd
-=======
-minh la tuan !
->>>>>>> parent of e98575e... Update a.txt
